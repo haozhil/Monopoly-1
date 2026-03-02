@@ -1,6 +1,6 @@
 # 大富翁
 
-一个纯前端、零构建依赖的大富翁小游戏。直接打开 `index.html` 就能玩。
+一个基于 React + Vite 的前端大富翁小游戏。
 
 ## 玩法
 
@@ -14,12 +14,31 @@
 
 ## 运行
 
-直接在浏览器中打开 `index.html`。
+先安装依赖，再启动开发服务器。
 
-如果你想用本地服务器运行：
+项目结构：
+
+- `index.html`: 页面入口
+- `src/App.js`: React 游戏逻辑与组件
+- `src/main.jsx`: React 挂载入口
+- `src/styles.css`: 样式
+
+## 开发
 
 ```bash
-python3 -m http.server 8000
+npm install
+npm run dev
 ```
 
-然后访问 `http://localhost:8000`。
+## 构建
+
+```bash
+npm run build
+```
+
+如果你在这台机器上没有全局 Node，也可以直接用仓库里的本地 Node：
+
+```bash
+PATH="$(pwd)/.local/node/bin:$PATH" npm install
+PATH="$(pwd)/.local/node/bin:$PATH" npm run dev
+```
