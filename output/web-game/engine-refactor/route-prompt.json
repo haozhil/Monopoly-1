@@ -1,0 +1,1 @@
+{"screen":"game","status":"玩家1 来到岔路口，请在棋盘上选择接下来要走的路线。","currentTurn":"玩家1","focusTile":"老街","pendingRouteChoice":{"from":"老街","options":["机会","旧桥口"]},"players":[{"name":"玩家1","money":1500,"position":"老街","bankrupt":false},{"name":"电脑1","money":1500,"position":"起点","bankrupt":false}]}

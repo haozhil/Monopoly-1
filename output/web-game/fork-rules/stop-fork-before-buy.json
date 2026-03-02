@@ -1,0 +1,1 @@
+{"screen":"game","status":"玩家1 掷出 1 点，开始移动。","currentTurn":"玩家1","focusTile":"老街","pendingRouteChoice":null,"players":[{"name":"玩家1","money":1500,"position":"老街","plannedRoute":null,"bankrupt":false},{"name":"电脑1","money":1500,"position":"起点","plannedRoute":null,"bankrupt":false}]}

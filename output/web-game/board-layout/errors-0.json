@@ -1,0 +1,10 @@
+[
+  {
+    "type": "console.error",
+    "text": "Warning: Invalid DOM property `%s`. Did you mean `%s`?%s stroke-width strokeWidth \n    at path\n    at svg\n    at Avatar (http://127.0.0.1:5174/src/components/Avatar.js:6:19)\n    at div\n    at div\n    at article\n    at div\n    at section\n    at main\n    at SetupScreen (http://127.0.0.1:5174/src/components/SetupScreen.js:9:24)\n    at App (http://127.0.0.1:5174/src/App.js:22:29)"
+  },
+  {
+    "type": "console.error",
+    "text": "Warning: Invalid DOM property `%s`. Did you mean `%s`?%s stroke-linecap strokeLinecap \n    at path\n    at svg\n    at Avatar (http://127.0.0.1:5174/src/components/Avatar.js:6:19)\n    at div\n    at div\n    at article\n    at div\n    at section\n    at main\n    at SetupScreen (http://127.0.0.1:5174/src/components/SetupScreen.js:9:24)\n    at App (http://127.0.0.1:5174/src/App.js:22:29)"
+  }
+]

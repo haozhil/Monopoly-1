@@ -1,0 +1,1 @@
+{"screen":"game","status":"玩家1 到达 港口。售价 ¥220，可以购买。","currentTurn":"玩家1","hasRolledThisTurn":true,"focusTile":"港口","pendingRouteChoice":null,"players":[{"name":"玩家1","money":1500,"position":"港口","plannedRoute":null,"bankrupt":false},{"name":"电脑1","money":1500,"position":"起点","plannedRoute":null,"bankrupt":false}]}
